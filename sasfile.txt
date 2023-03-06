@@ -1,2 +1,4 @@
 *** This is a SAS program developed by TM. 
 <EOP> dated 03/01 ***
+*** Date format should be in YYMMDD10. format.
+Changes advised by TL.
