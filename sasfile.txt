@@ -1,2 +1,4 @@
 *** This is a SAS program developed by TM. 
 <EOP> dated 03/01 ***
+*** proc sort data=wells.employee; by ssn; run;
+<EOP> dated 03/02;
